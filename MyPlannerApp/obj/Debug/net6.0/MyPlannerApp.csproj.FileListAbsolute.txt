@@ -1,0 +1,34 @@
+C:\Users\rossh\OneDrive - ADvTECH Ltd\Varsity\PROG 2\POE\POE Final\POE_WebApp\MyPlannerApp\bin\Debug\net6.0\MyPlannerApp.deps.json
+C:\Users\rossh\OneDrive - ADvTECH Ltd\Varsity\PROG 2\POE\POE Final\POE_WebApp\MyPlannerApp\bin\Debug\net6.0\MyPlannerApp.dll
+C:\Users\rossh\OneDrive - ADvTECH Ltd\Varsity\PROG 2\POE\POE Final\POE_WebApp\MyPlannerApp\bin\Debug\net6.0\MyPlannerApp.pdb
+C:\Users\rossh\OneDrive - ADvTECH Ltd\Varsity\PROG 2\POE\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.csproj.AssemblyReference.cache
+C:\Users\rossh\OneDrive - ADvTECH Ltd\Varsity\PROG 2\POE\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rossh\OneDrive - ADvTECH Ltd\Varsity\PROG 2\POE\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.AssemblyInfoInputs.cache
+C:\Users\rossh\OneDrive - ADvTECH Ltd\Varsity\PROG 2\POE\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.AssemblyInfo.cs
+C:\Users\rossh\OneDrive - ADvTECH Ltd\Varsity\PROG 2\POE\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\rossh\OneDrive - ADvTECH Ltd\Varsity\PROG 2\POE\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.dll
+C:\Users\rossh\OneDrive - ADvTECH Ltd\Varsity\PROG 2\POE\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\refint\MyPlannerApp.dll
+C:\Users\rossh\OneDrive - ADvTECH Ltd\Varsity\PROG 2\POE\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.pdb
+C:\Users\rossh\OneDrive - ADvTECH Ltd\Varsity\PROG 2\POE\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\ref\MyPlannerApp.dll
+C:\Users\Proit\Downloads\POE_Final-main\POE_Final-main\POE Final\POE Final\POE_WebApp\MyPlannerApp\bin\Debug\net6.0\MyPlannerApp.deps.json
+C:\Users\Proit\Downloads\POE_Final-main\POE_Final-main\POE Final\POE Final\POE_WebApp\MyPlannerApp\bin\Debug\net6.0\MyPlannerApp.dll
+C:\Users\Proit\Downloads\POE_Final-main\POE_Final-main\POE Final\POE Final\POE_WebApp\MyPlannerApp\bin\Debug\net6.0\MyPlannerApp.pdb
+C:\Users\Proit\Downloads\POE_Final-main\POE_Final-main\POE Final\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proit\Downloads\POE_Final-main\POE_Final-main\POE Final\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.AssemblyInfoInputs.cache
+C:\Users\Proit\Downloads\POE_Final-main\POE_Final-main\POE Final\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.AssemblyInfo.cs
+C:\Users\Proit\Downloads\POE_Final-main\POE_Final-main\POE Final\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\Proit\Downloads\POE_Final-main\POE_Final-main\POE Final\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.dll
+C:\Users\Proit\Downloads\POE_Final-main\POE_Final-main\POE Final\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\refint\MyPlannerApp.dll
+C:\Users\Proit\Downloads\POE_Final-main\POE_Final-main\POE Final\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.pdb
+C:\Users\Proit\Downloads\POE_Final-main\POE_Final-main\POE Final\POE Final\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\ref\MyPlannerApp.dll
+C:\Users\Proit\Downloads\Promising\POE_WebApp\MyPlannerApp\bin\Debug\net6.0\MyPlannerApp.deps.json
+C:\Users\Proit\Downloads\Promising\POE_WebApp\MyPlannerApp\bin\Debug\net6.0\MyPlannerApp.dll
+C:\Users\Proit\Downloads\Promising\POE_WebApp\MyPlannerApp\bin\Debug\net6.0\MyPlannerApp.pdb
+C:\Users\Proit\Downloads\Promising\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proit\Downloads\Promising\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.AssemblyInfoInputs.cache
+C:\Users\Proit\Downloads\Promising\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.AssemblyInfo.cs
+C:\Users\Proit\Downloads\Promising\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\Proit\Downloads\Promising\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.dll
+C:\Users\Proit\Downloads\Promising\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\refint\MyPlannerApp.dll
+C:\Users\Proit\Downloads\Promising\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\MyPlannerApp.pdb
+C:\Users\Proit\Downloads\Promising\POE_WebApp\MyPlannerApp\obj\Debug\net6.0\ref\MyPlannerApp.dll

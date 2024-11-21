@@ -1,0 +1,133 @@
+﻿@page
+@model MyPlanner.Pages.PlannerModel
+@{
+}
+
+<h1>Welcome TO EMMANUEL STUDY PLANNER</h1>
+
+<!-- Form for submitting module information -->
+<form method="POST">
+    <!-- Table for module information -->
+    <table>
+        <!-- Header row -->
+        <tr>
+            <th>Module Code</th>
+            <th>Module Name</th>
+            <th>Module Credits</th>
+            <th>Class Hours</th>
+            <th>Weeks in Semester</th>
+            <th>Start Date</th>
+        </tr>
+
+        <!-- Input row for module information -->
+        <tr>
+            <td><input type="text" itemid="moduleCode" name="moduleCode" /></td>
+            <!-- ... (similar input fields for other module information) ... -->
+        </tr>
+
+        <!-- Empty row for spacing -->
+        <tr>
+            <td><br /></td>
+        </tr>
+
+        <!-- Submit button for module information -->
+        <tr>
+            <td><button type="submit" value="moduleSubmit" name="button">Submit Module</button></td>
+        </tr>
+    </table>
+
+    <br />
+    <br />
+
+    <!-- Table for submitting hours worked -->
+    <table>
+        <!-- Header row -->
+        <tr>
+            <th>Hours Worked</th>
+            <th>Module</th>
+            <th>Date</th>
+        </tr>
+
+        <!-- Input row for hours worked information -->
+        <tr>
+            <td><input type="text" itemid="hoursWorked" name="hoursWorked" /></td>
+            <!-- Dropdown list for module selection -->
+            <td>
+                <select id="DDL" value="module_code" name="module_code">
+                    <option value="0">Please select module</option>
+                    <!-- Loop through dropListInfos and populate the dropdown list -->
+                    @foreach (var item in @Model.dropListInfos)
+                    {
+                        <option>@item.module_Code</option>
+                    }
+                </select>
+            </td>
+          
+        </tr>
+
+     
+        <tr>
+            <td><br /></td>
+        </tr>
+
+        <!-- Submit button for hours worked information -->
+        <tr>
+            <td><button type="submit" value="hoursSubmit" name="button">Submit Hours</button></td>
+        </tr>
+    </table>
+</form>
+
+<!-- Display a list of modules -->
+<h3>List of Modules</h3>
+<table class="table">
+    <thead>
+        <!-- Header row for the list of modules -->
+        <tr>
+            <td>Student Number</td>
+            <td>Module Code</td>
+            <td>Module Name</td>
+            <td>Credits</td>
+            <td>Weekly Class Hours</td>
+            <td>Weeks in Semester</td>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Loop through moduleInfos and display module information -->
+        @foreach (var item in @Model.moduleInfos)
+        {
+            <tr>
+                <td>@item.stdNumber</td>
+                <td>@item.module_code</td>
+               
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+<br />
+
+<!-- Display a list of hours worked -->
+<h3>List of Hours</h3>
+<table class="table">
+    <thead>
+        <!-- Header row for the list of hours worked -->
+        <tr>
+            <td>Student Number</td>
+            <td>Module Code</td>
+            <td>Self Study Hours</td>
+            <td>Self Study Hours Remaining</td>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Loop through hourInfos and display hours worked information -->
+        @foreach (var item in @Model.hourInfos)
+        {
+            <tr>
+                <td>@item.stdNumber</td>
+                <td>@item.module_code</td>
+               
+            </tr>
+        }
+    </tbody>
+</table>

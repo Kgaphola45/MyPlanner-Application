@@ -1,0 +1,99 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Login Page";
+}
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        text-align: center;
+    }
+
+    h1 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    form {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    input {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+    }
+
+    button {
+        background-color: #3498db;
+        color: white;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+        button:hover {
+            background-color: #2980b9;
+        }
+
+    div[role="alert"] {
+        display: none;
+        background-color: #f44336;
+        color: white;
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+    }
+
+        div[role="alert"] strong {
+            font-weight: bold;
+        }
+</style>
+
+<!-- HTML content -->
+
+<h1>Welcome to Emmanuel's Study Planner</h1>
+
+<div role="alert">
+    <strong></strong>
+</div>
+
+<form method="POST">
+    <!-- Login form with input fields for student number and password -->
+
+    <label for="stdNumber">Student Number</label><br />
+    <input type="text" id="stdNumber" name="stdNumber" /><br />
+
+    <label for="password">Password</label><br />
+    <input type="password" id="password" name="password" /><br />
+
+    <!-- Buttons for login and registration -->
+
+    <button type="submit" value="login" name="button">Log In</button>
+    <button type="submit" value="register" name="button">Register</button>
+</form>
+
+<!-- Display a message from the model (e.g., a success or error message) -->
+<p>@Model.message</p>

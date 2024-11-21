@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ST10102524Library", "MyPlanner\ST10102524Library.csproj", "{35BFE07C-3FF1-4B06-8C8D-6456DCB84A37}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ST10102524", "MyPlannerApp\ST10102524.csproj", "{594DD3B4-C249-4561-88E3-871103787D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35BFE07C-3FF1-4B06-8C8D-6456DCB84A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35BFE07C-3FF1-4B06-8C8D-6456DCB84A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35BFE07C-3FF1-4B06-8C8D-6456DCB84A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35BFE07C-3FF1-4B06-8C8D-6456DCB84A37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594DD3B4-C249-4561-88E3-871103787D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594DD3B4-C249-4561-88E3-871103787D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594DD3B4-C249-4561-88E3-871103787D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594DD3B4-C249-4561-88E3-871103787D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F66C6F1F-5319-4EE9-806C-C5CF6AC48824}
+	EndGlobalSection
+EndGlobal
