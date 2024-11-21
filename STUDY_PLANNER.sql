@@ -16,3 +16,18 @@ class_hours INT NOT NULL,
  
 semester_weeks INT NOT NULL,
 );
+
+
+CREATE TABLE dbo.hours (
+ 
+id INT IDENTITY(1,1) PRIMARY KEY,
+ 
+stdNumber VARCHAR(255) NOT NULL,
+ 
+module_code VARCHAR(255) NOT NULL,
+ 
+self_study INT NOT NULL,
+ 
+hours_remain INT NOT NULL,
+ 
+);
