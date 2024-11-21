@@ -3494,19 +3494,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Proit\\.nuget\\packages\\": {}
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Proit\\Downloads\\Sub\\ST10102524_Kgaphola_Emmanuel\\MyPlanner\\ST10102524Library.csproj",
+      "projectUniqueName": "C:\\Users\\RC_Student_lab\\Downloads\\ST10102524_Kgaphola_Emmanuel (1)\\ST10102524_Kgaphola_Emmanuel\\MyPlanner\\ST10102524Library.csproj",
       "projectName": "ST10102524Library",
-      "projectPath": "C:\\Users\\Proit\\Downloads\\Sub\\ST10102524_Kgaphola_Emmanuel\\MyPlanner\\ST10102524Library.csproj",
-      "packagesPath": "C:\\Users\\Proit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Proit\\Downloads\\Sub\\ST10102524_Kgaphola_Emmanuel\\MyPlanner\\obj\\",
+      "projectPath": "C:\\Users\\RC_Student_lab\\Downloads\\ST10102524_Kgaphola_Emmanuel (1)\\ST10102524_Kgaphola_Emmanuel\\MyPlanner\\ST10102524Library.csproj",
+      "packagesPath": "C:\\Users\\RC_Student_lab\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RC_Student_lab\\Downloads\\ST10102524_Kgaphola_Emmanuel (1)\\ST10102524_Kgaphola_Emmanuel\\MyPlanner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Proit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RC_Student_lab\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3520,8 +3520,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Proit\\Downloads\\Sub\\ST10102524_Kgaphola_Emmanuel\\MyPlannerApp\\ST10102524.csproj": {
-              "projectPath": "C:\\Users\\Proit\\Downloads\\Sub\\ST10102524_Kgaphola_Emmanuel\\MyPlannerApp\\ST10102524.csproj"
+            "C:\\Users\\RC_Student_lab\\Downloads\\ST10102524_Kgaphola_Emmanuel (1)\\ST10102524_Kgaphola_Emmanuel\\MyPlannerApp\\ST10102524.csproj": {
+              "projectPath": "C:\\Users\\RC_Student_lab\\Downloads\\ST10102524_Kgaphola_Emmanuel (1)\\ST10102524_Kgaphola_Emmanuel\\MyPlannerApp\\ST10102524.csproj"
             }
           }
         }
@@ -3568,8 +3568,30 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Data.SqlClient' 5.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "libraryId": "Microsoft.Data.SqlClient",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Data.SqlClient' 4.8.5 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
